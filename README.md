@@ -37,7 +37,7 @@
 ## GitHub Setup
 
 - [ ] **Create Repo from Use Template**:
-  
+
   - Click [HERE](https://github.com/new?template_name=react-props-starter&template_owner=prime-digital-academy) or the `Use Template` button in this repo to create a new repo.
   - Ensure `Include all branches` is left unchecked.
   - Specify your username and repo name appropriately.
@@ -77,7 +77,7 @@
 - [ ] **Start the application**:
 
   - In the terminal, run the following to start the server:
-  
+
     ```shell
     npm run server
     ```
